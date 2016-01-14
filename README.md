@@ -1,6 +1,3 @@
-
-
-
-Typeahead: https://github.com/twitter/typeahead.js/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Achip-miller+
-
-<!-- Migrate legacy data and media  -->
+Everything here has been abstracted directly from my daily work so missing dependencies may prevent loading.
+My goal here is to give you a clear view of my technical choices and codings style. Complete projects are
+available upon request.
