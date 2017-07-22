@@ -1,6 +1,5 @@
-### Typeahead Search w/ Filters and Contact Fallback
-Buit with: React, ElasticSearch, Backbone, Jasmine  
+### Typeahead Search, with Filters, and FAQ Fallback
+Buit with: React, ElasticSearch, Backbone, and Jasmine
 Included [contributions](https://github.com/twitter/typeahead.js/pull/1149) to Twitter Typeahead.js
 
-![Screenshot](https://github.com/chip-miller/samples/raw/master/javascripts/typeahead_search/screenshot.gif)
-<!-- Migrate legacy data and media  -->
+![Screenshot](https://github.com/chip-miller/samples/raw/master/screenshots/CornerstoneSF_Search.gif_)
