@@ -3,8 +3,9 @@
 #   @lesson.to_findable_hash        #=> {klass:'Lesson', id:12}
 #   {klass:'Lesson', id:12}.to_obj  #=> @lesson
 #
-# [Tip] Use w/ Resque to serialize objects into primative arguments
+# [Tip] Use w/ background workers to serialize objects into primative arguments
 #
+
 module FindableHash
   extend ActiveSupport::Concern
 

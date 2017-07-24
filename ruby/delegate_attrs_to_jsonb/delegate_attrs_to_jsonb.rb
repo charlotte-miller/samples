@@ -1,3 +1,4 @@
+# Uses PostgreSQL JSON Type
 # attr_accessors for a serialized column
 # Perfect for single table inheritance
 #

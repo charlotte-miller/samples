@@ -76,5 +76,3 @@ describe Searchable, :elasticsearch do
     end
   end
 end
-
-
